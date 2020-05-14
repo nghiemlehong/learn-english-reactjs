@@ -1,0 +1,19 @@
+.word {
+    background-color: cornflowerblue;
+    border: solid 1px black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.title-app {
+    text-align: center;
+}
+
+a {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.col-xl-6 {
+    margin: auto;
+}
